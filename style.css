@@ -1,0 +1,21 @@
+form{
+    width: 50%;
+}
+
+.navbar{
+    background-color: antiquewhite;
+}
+
+#first-btn{
+    background-color: antiquewhite;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
+
+#second-btn{
+    background-color: antiquewhite;
+    color: black;
+    border: none;
+    cursor: pointer;
+}
